@@ -1,4 +1,4 @@
-# Probablistic_Count_Implementation_using_Storm
+# Probablistic_Count_(Durand-Flajolet)_Implementation_using_Storm
 Stream processing of meetup.com streams for probabilistic counting by Durand-Flajolet algorithm using Apache Storm
 
 Implementation as part of the Scalable System for Data Science Course at Department of Computational and Data Sciences (CDS), Indian Institute of Science (IISc), Bangalore, India.
